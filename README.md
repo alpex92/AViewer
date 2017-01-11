@@ -10,3 +10,6 @@ Libs needed for build:
 -GLEW  
 -glm  
 -assimp  
+
+Thanks to Mark James for Silk Icons  
+http://www.famfamfam.com/lab/icons/silk/
