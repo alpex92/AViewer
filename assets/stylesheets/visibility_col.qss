@@ -1,0 +1,4 @@
+QTreeView::indicator:unchecked {image: url(:/icons/eye_grey.png);}
+QTreeView::indicator:checked {image: url(:/icons/eye.png);}
+QCheckBox::indicator:unchecked {image: url(:/icons/eye_grey.png);}
+QCheckBox::indicator:checked {image: url(:/icons/eye.png);}

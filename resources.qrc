@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/shaders/default.frag</file>
+        <file>assets/shaders/default.vert</file>
+        <file>assets/shaders/default2.frag</file>
+        <file>assets/shaders/default2.vert</file>
+        <file>assets/stylesheets/visibility_col.qss</file>
+        <file>assets/icons/arrow_down.png</file>
+        <file>assets/icons/arrow_in.png</file>
+        <file>assets/icons/arrow_left.png</file>
+        <file>assets/icons/arrow_right.png</file>
+        <file>assets/icons/arrow_rotate_anticlockwise.png</file>
+        <file>assets/icons/arrow_up.png</file>
+        <file>assets/icons/brick.png</file>
+        <file>assets/icons/bricks.png</file>
+        <file>assets/icons/cursor_arrow.png</file>
+        <file>assets/icons/cursor_drag.png</file>
+        <file>assets/icons/cursor_hand.png</file>
+        <file>assets/icons/database.png</file>
+        <file>assets/icons/door_out.png</file>
+        <file>assets/icons/eye.png</file>
+        <file>assets/icons/eye_grey.png</file>
+        <file>assets/icons/folder.png</file>
+        <file>assets/icons/folder_explore.png</file>
+        <file>assets/icons/folder_page.png</file>
+        <file>assets/icons/information.png</file>
+        <file>assets/icons/package.png</file>
+        <file>assets/icons/page_delete.png</file>
+        <file>assets/icons/page_white_code.png</file>
+        <file>assets/icons/page_white_text.png</file>
+        <file>assets/icons/shape_square.png</file>
+    </qresource>
+</RCC>
